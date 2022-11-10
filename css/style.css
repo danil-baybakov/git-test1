@@ -18,16 +18,6 @@
   font-style: normal;
 }
 
-@font-face {
-  font-family: 'Muller';
-  src: url('../font/MullerMedium.eot');
-  src: local('Muller Medium'), local('MullerMedium'),
-    url('../font/MullerMedium.woff2') format('woff2'),
-    url('../font/MullerMedium.woff') format('woff');
-  font-weight: 500;
-  font-style: normal;
-}
-
 .html {
   box-sizing: border-box;
 }
